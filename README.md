@@ -2,7 +2,7 @@
 
 A convolutional neural network **built from scratch in NumPy**, with an interactive app that answers one question: *how does a neural network read a handwritten digit?*
 
-<!-- Live demo (after deploying to Streamlit Community Cloud): [Open the app](https://your-app-url.streamlit.app) -->
+[Open the app](https://cnn-from-scratch-409.streamlit.app) 
 
 ## What's in the app
 
